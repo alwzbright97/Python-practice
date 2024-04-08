@@ -4,6 +4,8 @@
 
 ### Expert Python Programming
 
+Ref. : [Expert Python Programming-Fourth Edition : github](https://github.com/PacktPublishing/Expert-Python-Programming-Fourth-Edition/tree/main?tab=readme-ov-file)
+
 `expert_python_programming` 디렉토리 - 각 챕터 디렉토리 - 각 특징별 Notebook 파일로 저장
 
 
